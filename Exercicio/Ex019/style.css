@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/*
+em HTML é id, em CSS é #
+em HTNL é class, em CSS é .
+*/
+
+body{
+    background-color: rgb(218, 253, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1#principal{
+    color: white;
+    text-align: center;
+    background-color:#21BFAA;
+}
+h1{
+    color:#2B413E;
+}
+.b{
+    color: #21bf68;
+}
+.i{
+    color: #a2bf21;
+}
+ .a{
+    color: #8b1818;
+ }
